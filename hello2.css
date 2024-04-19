@@ -1,0 +1,16 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #966767;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  h1 {
+    color: #e22222;
+  }
+  
+  p {
+    color: #6915d6;
+    line-height: 1.5;
+  }
+  
